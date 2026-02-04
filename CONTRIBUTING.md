@@ -13,7 +13,11 @@ With the nature of this project being of an educational type, external contribut
 ## What You CAN Do
 
 ### Ideas & Suggestions
-If you have an idea that aligns with the philosophy of the project, open an issue! Anything including, structuring, syntax, architecture, everything is taken into serious consideration.
+While code contributions are currently closed, **ideas and discussions are welcome!**
+
+**Join the conversation:**
+- [GitHub Discussions](https://github.com/TamuSatyam/Jazyk/discussions) - Ask questions, propose ideas, discuss the project
+- Open an issue with the `idea` or `question` label
 
 ### Bug Reports (when code exists)
 Find a bug in the compiler? Documentation error? Let me know (I will probably spend more time on that than the actual project)!
@@ -30,11 +34,9 @@ Once the project reaches v1.0.0, I'll update this with:
 - Coding standards
 - How to set up development environment
 - Areas that need help
-- Pull request process
+- Pull request proces
 
-## Questions?
-
-Open an issue with the `question` label and I'll do my best to respond!
+Your feedback helps shape Jazyk's development, even if you can't contribute code yet.
 
 ---
 

@@ -7,7 +7,7 @@
 
 ## What is Jazyk?
 
-Jazyk (pronounced "ya-zik", Ukrainian/Russian for "language") is an imperative, statically-typed compiled programming language with manual memory management. It's designed as an educational tool to teach:
+Jazyk (pronounced "ya-zik", Slavic for "language") is an imperative, statically-typed compiled programming language with manual memory management. It's designed as an educational tool to teach:
 
 - Compiler design and implementation
 - Low-level memory management
@@ -109,6 +109,16 @@ GPL v3 License - if you are going to take my code, at least let me look at it to
 Built by someone learning compiler design while saving for an SSD in Nepal. 🇳🇵
 
 If this project helped you learn something, give it a star!
+
+## Contact
+
+Want to discuss Jazyk, ask questions, or share ideas?
+
+**[GitHub Discussions](https://github.com/TamuSatyam/Jazyk/discussions)**
+
+**Note:** While code contributions are not accepted until v1.0.0 (see [CONTRIBUTING.md](CONTRIBUTING.md)), discussions, ideas, and feedback are always welcome! This is a learning project and your input helps shape its development.
+
+For security concerns, see [SECURITY.md](SECURITY.md) (spoiler: that thing you found is not a vulnerability, it's a feature).
 
 ---
 
