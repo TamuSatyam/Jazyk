@@ -17,7 +17,6 @@ While code contributions are currently closed, **ideas and discussions are welco
 
 **Join the conversation:**
 - [GitHub Discussions](https://github.com/TamuSatyam/Jazyk/discussions) - Ask questions, propose ideas, discuss the project
-- Open an issue with the `idea` or `question` label
 
 ### Bug Reports (when code exists)
 Find a bug in the compiler? Documentation error? Let me know (I will probably spend more time on that than the actual project)!
