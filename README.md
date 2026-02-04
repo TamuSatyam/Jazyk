@@ -83,7 +83,7 @@ Jazyk is being developed in C using LLVM on Alpine Linux (musl).
 
 With the nature of this project being of an educational type, external contributions are politely or if prompted violently rejected until a stable and satisfactory version is created. After which, contributions are open and welcomed!
 
-However, **ideas, suggestions, and discussions are welcome!** Open an issue if you have thoughts.
+However, **ideas, suggestions, and discussions are welcome!**
 
 ## Documentation
 
